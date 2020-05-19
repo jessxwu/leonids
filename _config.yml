@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: jessica wu
+email: jessicaxywu@gmail.com
+description: thoughtful digressions, musings, and half-baked reflections
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["blog", "toronto"]
 
 #
 ###################################
@@ -35,8 +35,8 @@ kramdown:
 owner:
   name: Leonids
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "jessica wu"
+  bio: "thoughtful digressions, musings, and half-baked reflections."
   email:
   disqus-shortname:
   twitter: #username
